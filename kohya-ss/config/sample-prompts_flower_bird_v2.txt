@@ -1,0 +1,5 @@
+ich_flower_bird_pattern, clear bird and flower motif, visible bird head, visible beak, wings, tail feathers, bird body, flowers around bird, Chinese decorative pattern, flat ornamental design, light background --w 512 --h 512 --d 11 --l 7 --s 30
+ich_flower_bird_pattern, one clear bird perched among flowers, visible beak, wings and long tail feathers, Chinese folk decorative pattern, clean linework, balanced composition --w 512 --h 512 --d 12 --l 7 --s 30
+ich_flower_bird_pattern, symmetrical bird and flower ornament, two clear birds, visible beaks, wings, tail feathers, floral scrollwork, flat Chinese pattern --w 512 --h 512 --d 13 --l 7 --s 30
+ich_flower_bird_pattern, phoenix and peony motif, bird with spread wings and long tail, traditional Chinese textile pattern, embroidered ornament --w 512 --h 512 --d 14 --l 7 --s 30
+ich_flower_bird_pattern, bird among peony flowers, clear bird silhouette, floral branches, blue and white porcelain pattern --w 512 --h 512 --d 15 --l 7 --s 30

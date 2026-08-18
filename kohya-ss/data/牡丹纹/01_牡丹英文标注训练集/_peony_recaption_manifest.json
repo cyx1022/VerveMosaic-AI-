@@ -1,0 +1,404 @@
+{
+  "dataset_dir": "C:\\Users\\陈\\Desktop\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\牡丹纹\\01_牡丹英文标注训练集\\10_peony",
+  "backup_dir": "C:\\Users\\陈\\Desktop\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\牡丹纹\\01_牡丹英文标注训练集\\_backup_10_peony_before_recaption_20260803_215105",
+  "image_count": 7,
+  "caption_policy": "trigger tokens first, then peony structure, then style/material hints inferred from original filename",
+  "items": [
+    {
+      "new_image": "peony_0001.jpg",
+      "new_caption": "peony_0001.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0002.jpg",
+      "new_caption": "peony_0002.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0003.jpg",
+      "new_caption": "peony_0003.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0004.jpg",
+      "new_caption": "peony_0004.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0005.jpg",
+      "new_caption": "peony_0005.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0006.jpg",
+      "new_caption": "peony_0006.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0007.jpg",
+      "new_caption": "peony_0007.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0008.jpg",
+      "new_caption": "peony_0008.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0009.jpg",
+      "new_caption": "peony_0009.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0010.jpg",
+      "new_caption": "peony_0010.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0011.jpg",
+      "new_caption": "peony_0011.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0012.jpg",
+      "new_caption": "peony_0012.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0013.jpg",
+      "new_caption": "peony_0013.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0014.jpg",
+      "new_caption": "peony_0014.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0015.jpg",
+      "new_caption": "peony_0015.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0016.jpg",
+      "new_caption": "peony_0016.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0017.jpg",
+      "new_caption": "peony_0017.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0018.jpg",
+      "new_caption": "peony_0018.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0019.jpg",
+      "new_caption": "peony_0019.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0020.jpg",
+      "new_caption": "peony_0020.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0021.jpg",
+      "new_caption": "peony_0021.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony"
+    },
+    {
+      "new_image": "peony_0022.jpg",
+      "new_caption": "peony_0022.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0023.jpg",
+      "new_caption": "peony_0023.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0024.jpg",
+      "new_caption": "peony_0024.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0025.jpg",
+      "new_caption": "peony_0025.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, floral scrollwork"
+    },
+    {
+      "new_image": "peony_0026.jpg",
+      "new_caption": "peony_0026.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif"
+    },
+    {
+      "new_image": "peony_0027.jpg",
+      "new_caption": "peony_0027.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, floral scrollwork"
+    },
+    {
+      "new_image": "peony_0028.jpg",
+      "new_caption": "peony_0028.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, floral scrollwork"
+    },
+    {
+      "new_image": "peony_0029.jpg",
+      "new_caption": "peony_0029.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0030.jpg",
+      "new_caption": "peony_0030.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0031.jpg",
+      "new_caption": "peony_0031.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0032.jpg",
+      "new_caption": "peony_0032.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0033.jpg",
+      "new_caption": "peony_0033.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0034.jpg",
+      "new_caption": "peony_0034.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0035.jpg",
+      "new_caption": "peony_0035.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony"
+    },
+    {
+      "new_image": "peony_0036.jpg",
+      "new_caption": "peony_0036.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0037.jpg",
+      "new_caption": "peony_0037.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony, textile embroidery pattern, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0038.jpg",
+      "new_caption": "peony_0038.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, floral scrollwork"
+    },
+    {
+      "new_image": "peony_0039.jpg",
+      "new_caption": "peony_0039.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0040.jpg",
+      "new_caption": "peony_0040.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif"
+    },
+    {
+      "new_image": "peony_0041.jpg",
+      "new_caption": "peony_0041.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony"
+    },
+    {
+      "new_image": "peony_0042.jpg",
+      "new_caption": "peony_0042.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0043.jpg",
+      "new_caption": "peony_0043.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, butterfly with peony, textile embroidery pattern, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0044.jpg",
+      "new_caption": "peony_0044.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, butterfly with peony, textile embroidery pattern, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0045.jpg",
+      "new_caption": "peony_0045.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0046.jpg",
+      "new_caption": "peony_0046.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, traditional rich color palette"
+    },
+    {
+      "new_image": "peony_0047.jpg",
+      "new_caption": "peony_0047.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, butterfly with peony"
+    },
+    {
+      "new_image": "peony_0048.jpg",
+      "new_caption": "peony_0048.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, butterfly with peony"
+    },
+    {
+      "new_image": "peony_0049.jpg",
+      "new_caption": "peony_0049.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0050.jpg",
+      "new_caption": "peony_0050.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony, blue and white porcelain style, ceramic decorative motif"
+    },
+    {
+      "new_image": "peony_0051.jpg",
+      "new_caption": "peony_0051.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony, blue and white porcelain style, ceramic decorative motif"
+    },
+    {
+      "new_image": "peony_0052.jpg",
+      "new_caption": "peony_0052.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, round medallion composition"
+    },
+    {
+      "new_image": "peony_0053.jpg",
+      "new_caption": "peony_0053.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, round medallion composition"
+    },
+    {
+      "new_image": "peony_0054.jpg",
+      "new_caption": "peony_0054.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, floral scrollwork"
+    },
+    {
+      "new_image": "peony_0055.jpg",
+      "new_caption": "peony_0055.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, blue and white porcelain style, ceramic decorative motif, floral scrollwork"
+    },
+    {
+      "new_image": "peony_0056.jpg",
+      "new_caption": "peony_0056.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, phoenix or bird with peony"
+    },
+    {
+      "new_image": "peony_0057.jpg",
+      "new_caption": "peony_0057.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0058.jpg",
+      "new_caption": "peony_0058.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0059.jpg",
+      "new_caption": "peony_0059.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0060.jpg",
+      "new_caption": "peony_0060.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0061.jpg",
+      "new_caption": "peony_0061.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0062.jpg",
+      "new_caption": "peony_0062.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0063.jpg",
+      "new_caption": "peony_0063.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, textile embroidery pattern"
+    },
+    {
+      "new_image": "peony_0064.jpg",
+      "new_caption": "peony_0064.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0065.jpg",
+      "new_caption": "peony_0065.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    },
+    {
+      "new_image": "peony_0066.jpg",
+      "new_caption": "peony_0066.txt",
+      "original_name": "reused from existing temporary rename folder",
+      "caption": "ich_flower_pattern, ich_peony_pattern, clear peony flower motif, large full peony blossom, layered ruffled petals, visible central flower structure, peony leaves, Chinese intangible cultural heritage decorative pattern, flat ornamental design, clean composition, peony ornamental motif"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+ich_flower_pattern, ich_peony_pattern, large peony blossom, layered ruffled petals, pink peony flower, traditional Chinese peony pattern, flat ornamental design, rich color, single centered medallion, radial symmetry --w 512 --h 512 --d 1234 --l 7.5 --s 28
+ich_flower_pattern, ich_peony_pattern, large red peony blossom, dense layered petals, traditional Chinese peony pattern, flat ornamental design, seamless repeat, mirror symmetry --w 512 --h 512 --d 2234 --l 7.5 --s 28
+ich_flower_pattern, ich_peony_pattern, peony motif, pink and white petals, peony leaves, Chinese intangible cultural heritage floral ornament, clean linework, flat ornamental design, fitted panel composition --w 512 --h 512 --d 3234 --l 7.5 --s 28
+ich_flower_pattern, ich_peony_pattern, peony pattern, large blossom, layered petals, traditional Chinese decorative pattern, embroidery-inspired, single centered medallion, radial symmetry --w 512 --h 512 --d 4234 --l 7.5 --s 28
+ich_flower_pattern, ich_peony_pattern, peony motif, soft pink petals, traditional Chinese peony pattern, flat ornamental design, free asymmetric composition --w 512 --h 512 --d 5234 --l 7.5 --s 28

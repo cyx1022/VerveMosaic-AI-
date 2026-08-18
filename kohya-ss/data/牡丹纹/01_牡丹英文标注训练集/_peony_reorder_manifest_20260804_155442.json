@@ -1,0 +1,498 @@
+{
+  "dataset_dir": "C:\\Users\\陈\\Desktop\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\牡丹纹\\01_牡丹英文标注训练集\\10_peony",
+  "training_dir": "C:\\LoraTraining\\ich_peony_train_en_v2\\10_peony",
+  "backup_dir": "C:\\Users\\陈\\Desktop\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\牡丹纹\\01_牡丹英文标注训练集",
+  "image_count": 70,
+  "order": [
+    {
+      "new_image": "peony_0001.jpg",
+      "caption_file": "peony_0001.txt",
+      "original_name": "0001_peony_001.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, large full peony blossom, layered ruffled petals, peony leaves, clean flat ornamental illustration, white background, traditional Chinese decorative pattern"
+    },
+    {
+      "new_image": "peony_0002.jpg",
+      "caption_file": "peony_0002.txt",
+      "original_name": "0002_peony_002.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif with bird, cloud and wave scrolls, floral ornament, flat traditional composition, peony blossoms and leaves"
+    },
+    {
+      "new_image": "peony_0003.jpg",
+      "caption_file": "peony_0003.txt",
+      "original_name": "0003_peony_003.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossom motif with clouds and moon, traditional flat ornamental illustration, decorative floral pattern"
+    },
+    {
+      "new_image": "peony_0004.jpg",
+      "caption_file": "peony_0004.txt",
+      "original_name": "0004_peony_004.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, single pink peony blossom, broad layered petals, leaves, simple clean background, flat ornamental design"
+    },
+    {
+      "new_image": "peony_0005.jpg",
+      "caption_file": "peony_0005.txt",
+      "original_name": "0005_peony_005.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, pink blossoms on vine branches, blue gradient background, flat ornamental floral design"
+    },
+    {
+      "new_image": "peony_0006.jpg",
+      "caption_file": "peony_0006.txt",
+      "original_name": "0009_peony_009.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony floral motif, blossom cluster, leaves, warm brown background, traditional decorative pattern"
+    },
+    {
+      "new_image": "peony_0007.jpg",
+      "caption_file": "peony_0007.txt",
+      "original_name": "0014_peony_014.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, large blossom with border frame, peony leaves, flat ornamental border pattern"
+    },
+    {
+      "new_image": "peony_0008.jpg",
+      "caption_file": "peony_0008.txt",
+      "original_name": "0015_peony_015.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, monochrome line drawing, ink brush style, clean floral ornament, white background"
+    },
+    {
+      "new_image": "peony_0009.jpg",
+      "caption_file": "peony_0009.txt",
+      "original_name": "0016_peony_016.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, blue toned blossom, peony leaves, flat decorative composition, traditional Chinese pattern"
+    },
+    {
+      "new_image": "peony_0010.jpg",
+      "caption_file": "peony_0010.txt",
+      "original_name": "0017_peony_017.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony pattern with Chinese text frame, traditional decorative page, ornamental peony blossoms"
+    },
+    {
+      "new_image": "peony_0011.jpg",
+      "caption_file": "peony_0011.txt",
+      "original_name": "0018_peony_018.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, ink brush peony, monochrome line art, flat traditional ornament"
+    },
+    {
+      "new_image": "peony_0012.jpg",
+      "caption_file": "peony_0012.txt",
+      "original_name": "0019_peony_019.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony branch floral print, blossoms and leaves, still life arrangement, traditional decorative pattern"
+    },
+    {
+      "new_image": "peony_0013.jpg",
+      "caption_file": "peony_0013.txt",
+      "original_name": "0021_vol07-tb053-0095-2_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, ink style line pattern, monochrome abstract floral ornament"
+    },
+    {
+      "new_image": "peony_0014.jpg",
+      "caption_file": "peony_0014.txt",
+      "original_name": "0026_vol07-tb076-0118-3_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif with vase, ink brush line art, monochrome traditional still life ornament"
+    },
+    {
+      "new_image": "peony_0015.jpg",
+      "caption_file": "peony_0015.txt",
+      "original_name": "0027_vol07-tb182-0224-2_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower border motif, ink brush line pattern, monochrome traditional ornament"
+    },
+    {
+      "new_image": "peony_0016.jpg",
+      "caption_file": "peony_0016.txt",
+      "original_name": "0029_vol07-tb235-0277-1_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, ink line drawing, monochrome floral pattern, traditional Chinese style"
+    },
+    {
+      "new_image": "peony_0017.jpg",
+      "caption_file": "peony_0017.txt",
+      "original_name": "0032_vol09-tb152-0194-3_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, line art illustration, layered blossom, leaves, flat ornamental design"
+    },
+    {
+      "new_image": "peony_0018.jpg",
+      "caption_file": "peony_0018.txt",
+      "original_name": "0033_vol09-tb158-0200-1_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, ink brush still life, monochrome floral pattern, traditional ornament"
+    },
+    {
+      "new_image": "peony_0019.jpg",
+      "caption_file": "peony_0019.txt",
+      "original_name": "0034_vol09-tb208-0250-3_thumbnail.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower border motif, black ink line pattern, traditional Chinese decorative ornament"
+    },
+    {
+      "new_image": "peony_0020.jpg",
+      "caption_file": "peony_0020.txt",
+      "original_name": "5b5184b87d519.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif, pink blossom, transparent clean background, flat ornamental illustration, peony leaves"
+    },
+    {
+      "new_image": "peony_0021.jpg",
+      "caption_file": "peony_0021.txt",
+      "original_name": "ai3_136766.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossom side view, pink petals, green leaves, white background, clean flat floral illustration"
+    },
+    {
+      "new_image": "peony_0022.jpg",
+      "caption_file": "peony_0022.txt",
+      "original_name": "ai3_136815.png",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony floral illustration, layered blossoms, artist signature stamp, white background, painted peony motif"
+    },
+    {
+      "new_image": "peony_0023.jpg",
+      "caption_file": "peony_0023.txt",
+      "original_name": "6066cdfecd48e.jpg",
+      "category": "clean_ink_motif",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower motif with bird and moon, traditional Chinese decorative pattern, floral ornament"
+    },
+    {
+      "new_image": "peony_0024.jpg",
+      "caption_file": "peony_0024.txt",
+      "original_name": "0035_丘北壮族背带上的菱格牡丹纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, diamond lattice peony motif, Zhuang ethnic baby carrier embroidery, colorful silk thread, flat embroidered textile pattern"
+    },
+    {
+      "new_image": "peony_0025.jpg",
+      "caption_file": "peony_0025.txt",
+      "original_name": "0036_乐业壮族门帘上的凤穿牡丹纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, phoenix through peony motif, Zhuang ethnic door curtain, embroidered textile pattern, traditional folk embroidery"
+    },
+    {
+      "new_image": "peony_0026.jpg",
+      "caption_file": "peony_0026.txt",
+      "original_name": "0037_云南壮族(搭头土僚)背带及局部.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on Yunnan Zhuang baby carrier, embroidered textile pattern, folk embroidery"
+    },
+    {
+      "new_image": "peony_0027.jpg",
+      "caption_file": "peony_0027.txt",
+      "original_name": "0038_云南壮族背带上的牡丹宝相花纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony baoxiang flower motif, Yunnan Zhuang baby carrier embroidery, layered auspicious flower, textile ornament"
+    },
+    {
+      "new_image": "peony_0028.jpg",
+      "caption_file": "peony_0028.txt",
+      "original_name": "0039_五彩牡丹边锦花纹栽绒地毯.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, multicolored peony border brocade motif, pile carpet textile, woven decorative pattern"
+    },
+    {
+      "new_image": "peony_0029.jpg",
+      "caption_file": "peony_0029.txt",
+      "original_name": "0044_壮背带局部.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on Zhuang baby carrier detail, embroidered textile pattern, folk embroidery"
+    },
+    {
+      "new_image": "peony_0030.jpg",
+      "caption_file": "peony_0030.txt",
+      "original_name": "0046_大红色地八仙富贵万寿纹妆花缎.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, red ground brocade with peony, eight immortals, fortune and longevity motifs, traditional silk textile pattern"
+    },
+    {
+      "new_image": "peony_0031.jpg",
+      "caption_file": "peony_0031.txt",
+      "original_name": "0047_天峨壮族满襟围腰头上的牡丹纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on Tian'e Zhuang ethnic apron, embroidered textile pattern, folk embroidery"
+    },
+    {
+      "new_image": "peony_0032.jpg",
+      "caption_file": "peony_0032.txt",
+      "original_name": "0048_布依族扎染被面.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on Buyi ethnic tie dyed quilt cover, indigo blue textile pattern, folk dyeing"
+    },
+    {
+      "new_image": "peony_0033.jpg",
+      "caption_file": "peony_0033.txt",
+      "original_name": "0050_广西南丹壮族背带及局部.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on Guangxi Nandan Zhuang baby carrier, embroidered textile pattern, folk embroidery"
+    },
+    {
+      "new_image": "peony_0034.jpg",
+      "caption_file": "peony_0034.txt",
+      "original_name": "0051_文山背带上的牡丹纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on Wenshan baby carrier, embroidered textile pattern, folk embroidery"
+    },
+    {
+      "new_image": "peony_0035.jpg",
+      "caption_file": "peony_0035.txt",
+      "original_name": "0052_明清书画包首的凤穿牡丹球路纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, phoenix through peony ball lattice motif, Ming Qing book wrapper, silk textile pattern"
+    },
+    {
+      "new_image": "peony_0036.jpg",
+      "caption_file": "peony_0036.txt",
+      "original_name": "0058_月白色纳纱金凤牡丹单衬衣.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, phoenix and peony motif, moon white gauze embroidered garment, gold silk embroidery, textile pattern"
+    },
+    {
+      "new_image": "peony_0037.jpg",
+      "caption_file": "peony_0037.txt",
+      "original_name": "0066_牡丹连钱纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony and coin chain motif, traditional Chinese ornamental pattern, repeated floral emblem"
+    },
+    {
+      "new_image": "peony_0038.jpg",
+      "caption_file": "peony_0038.txt",
+      "original_name": "0071_石青色缎绣牡丹蝶女夹坎肩.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, stone blue satin embroidered peony and butterfly motif, women's vest, silk textile pattern"
+    },
+    {
+      "new_image": "peony_0039.jpg",
+      "caption_file": "peony_0039.txt",
+      "original_name": "0072_石青色缎绣牡丹蝶女夹坎肩.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, stone blue satin embroidered peony and butterfly motif, women's vest, silk textile pattern"
+    },
+    {
+      "new_image": "peony_0040.jpg",
+      "caption_file": "peony_0040.txt",
+      "original_name": "0073_红地平金彩绣喜字大婚帷幔.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, red ground gold embroidered peony motif, wedding curtain with double happiness, auspicious textile pattern"
+    },
+    {
+      "new_image": "peony_0041.jpg",
+      "caption_file": "peony_0041.txt",
+      "original_name": "0076_蝶恋花·牡丹花_003.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony with butterfly motif, butterfly loving flower, traditional Chinese decorative pattern"
+    },
+    {
+      "new_image": "peony_0042.jpg",
+      "caption_file": "peony_0042.txt",
+      "original_name": "0077_蝶恋花·牡丹花_010.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony with butterfly motif, butterfly loving flower, traditional Chinese decorative pattern"
+    },
+    {
+      "new_image": "peony_0043.jpg",
+      "caption_file": "peony_0043.txt",
+      "original_name": "0079_金线地回纹边牡丹花纹栽绒地毯.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, gold thread ground peony carpet motif, key fret border, pile carpet textile pattern"
+    },
+    {
+      "new_image": "peony_0044.jpg",
+      "caption_file": "peony_0044.txt",
+      "original_name": "0090_靖西壮族凤穿牡丹纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, phoenix through peony motif, Jingxi Zhuang folk pattern, embroidered textile ornament"
+    },
+    {
+      "new_image": "peony_0045.jpg",
+      "caption_file": "peony_0045.txt",
+      "original_name": "刺绣牡丹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, embroidered peony motif, silk embroidery stitches, flat textile pattern, peony blossom and leaves"
+    },
+    {
+      "new_image": "peony_0046.jpg",
+      "caption_file": "peony_0046.txt",
+      "original_name": "国风牡丹花纹样底纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, Chinese style peony pattern background, repeated floral motif, flat ornamental design"
+    },
+    {
+      "new_image": "peony_0047.jpg",
+      "caption_file": "peony_0047.txt",
+      "original_name": "无缝花纹与复古风格的牡丹.png",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, seamless vintage peony pattern, repeating floral motif, retro ornamental textile design"
+    },
+    {
+      "new_image": "peony_0048.jpg",
+      "caption_file": "peony_0048.txt",
+      "original_name": "牡丹花纹.jpg",
+      "category": "textile_embroidery",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony flower pattern, ornamental floral motif, traditional Chinese decorative design"
+    },
+    {
+      "new_image": "peony_0049.jpg",
+      "caption_file": "peony_0049.txt",
+      "original_name": "0040_五彩缠枝牡丹纹罐.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, wucai entwined peony vine motif, porcelain jar decoration, multicolor ceramic pattern"
+    },
+    {
+      "new_image": "peony_0050.jpg",
+      "caption_file": "peony_0050.txt",
+      "original_name": "0041_元代瓷罐上的牡丹云龙纹.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony cloud dragon motif, Yuan dynasty porcelain jar, ceramic decoration, traditional pattern"
+    },
+    {
+      "new_image": "peony_0051.jpg",
+      "caption_file": "peony_0051.txt",
+      "original_name": "0042_元景德镇窑青花缠枝牡丹纹瓶.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white entwined peony vine motif, Jingdezhen Yuan dynasty vase, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0052.jpg",
+      "caption_file": "peony_0052.txt",
+      "original_name": "0043_元景德镇窑青花缠枝牡丹纹瓶.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white entwined peony vine motif, Jingdezhen Yuan dynasty vase, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0053.jpg",
+      "caption_file": "peony_0053.txt",
+      "original_name": "0055_景泰蓝花瓶半周纹样.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony half round pattern, cloisonne vase, blue turquoise enamel, metallic wire, enamelware pattern"
+    },
+    {
+      "new_image": "peony_0054.jpg",
+      "caption_file": "peony_0054.txt",
+      "original_name": "0067_珊瑚红地粉彩牡丹纹贯耳瓶.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, coral red ground famille rose peony motif, porcelain vase, ceramic decoration"
+    },
+    {
+      "new_image": "peony_0055.jpg",
+      "caption_file": "peony_0055.txt",
+      "original_name": "0068_瓷器上的牡丹纹.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony motif on porcelain, floral ceramic decoration, traditional Chinese pattern"
+    },
+    {
+      "new_image": "peony_0056.jpg",
+      "caption_file": "peony_0056.txt",
+      "original_name": "0069_画珐琅丹凤纹样.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, painted enamel phoenix pattern, enamelware ornament, traditional decorative motif"
+    },
+    {
+      "new_image": "peony_0057.jpg",
+      "caption_file": "peony_0057.txt",
+      "original_name": "0070_画珐琅牡丹花纹海棠式花篮.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, painted enamel peony motif, crabapple shaped flower basket, enamelware ornament"
+    },
+    {
+      "new_image": "peony_0058.jpg",
+      "caption_file": "peony_0058.txt",
+      "original_name": "0075_蓝地珐琅彩牡丹纹碗.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue ground enamel peony motif, bowl, enamelware ornament, traditional floral pattern"
+    },
+    {
+      "new_image": "peony_0059.jpg",
+      "caption_file": "peony_0059.txt",
+      "original_name": "0080_青花凤穿牡丹纹执壶.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white phoenix through peony motif, ewer, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0060.jpg",
+      "caption_file": "peony_0060.txt",
+      "original_name": "0082_青花凤穿牡丹纹盖罐.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white phoenix through peony motif, covered jar, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0061.jpg",
+      "caption_file": "peony_0061.txt",
+      "original_name": "0083_青花怪石牡丹纹菱花式盘.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white peony with rocks motif, lobed dish, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0062.jpg",
+      "caption_file": "peony_0062.txt",
+      "original_name": "0084_青花牡丹盘.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white peony plate, cobalt ceramic pattern, floral porcelain decoration"
+    },
+    {
+      "new_image": "peony_0063.jpg",
+      "caption_file": "peony_0063.txt",
+      "original_name": "0088_青花缠枝牡丹纹玉壶春瓶.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white entwined peony vine motif, yuhuchun vase, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0064.jpg",
+      "caption_file": "peony_0064.txt",
+      "original_name": "0089_青花缠枝牡丹纹玉壶春瓶.jpg",
+      "category": "porcelain_enamel",
+      "caption": "ich_flower_pattern, ich_peony_pattern, blue and white entwined peony vine motif, yuhuchun vase, cobalt ceramic pattern"
+    },
+    {
+      "new_image": "peony_0065.jpg",
+      "caption_file": "peony_0065.txt",
+      "original_name": "ai3_19982.png",
+      "category": "artistic_scenic",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossoms in outdoor garden, traditional East Asian architecture, pink peonies, scenic botanical illustration"
+    },
+    {
+      "new_image": "peony_0066.jpg",
+      "caption_file": "peony_0066.txt",
+      "original_name": "ai3_640.png",
+      "category": "artistic_scenic",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossoms in outdoor scene, flying bird, sky and clouds, scenic floral illustration"
+    },
+    {
+      "new_image": "peony_0067.jpg",
+      "caption_file": "peony_0067.txt",
+      "original_name": "ai3_648.png",
+      "category": "artistic_scenic",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossoms with drifting petals, sky and clouds, scenic floral illustration"
+    },
+    {
+      "new_image": "peony_0068.jpg",
+      "caption_file": "peony_0068.txt",
+      "original_name": "ai3_650.png",
+      "category": "artistic_scenic",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossoms with sky and clouds, scenic floral illustration"
+    },
+    {
+      "new_image": "peony_0069.jpg",
+      "caption_file": "peony_0069.txt",
+      "original_name": "ai3_658.png",
+      "category": "artistic_scenic",
+      "caption": "ich_flower_pattern, ich_peony_pattern, peony blossoms outdoors, bird in flight, sun and clouds, scenic floral illustration"
+    },
+    {
+      "new_image": "peony_0070.jpg",
+      "caption_file": "peony_0070.txt",
+      "original_name": "包图网173391121水墨牡丹花卉纹样 小样.jpg",
+      "category": "artistic_scenic",
+      "caption": "ich_flower_pattern, ich_peony_pattern, ink wash peony flower pattern, seigaiha wave background, hexagonal grid, blue and red palette, Chinese painting style"
+    }
+  ]
+}

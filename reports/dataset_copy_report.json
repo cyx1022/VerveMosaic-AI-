@@ -1,0 +1,32 @@
+[
+  {
+    "label": "花鸟纹/原始花鸟训练集",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_bird_train_en",
+    "destination": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\花鸟纹\\01_原始花鸟训练集",
+    "files_copied": 228
+  },
+  {
+    "label": "花鸟纹/鸟结构修正集",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_bird_train_structure_en",
+    "destination": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\花鸟纹\\02_鸟结构修正集",
+    "files_copied": 71
+  },
+  {
+    "label": "莲花纹/英文标注训练集",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_lotus_train_en",
+    "destination": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\莲花纹\\01_莲花英文标注训练集",
+    "files_copied": 344
+  },
+  {
+    "label": "牡丹纹/英文标注训练集",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_peony_train_en",
+    "destination": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\牡丹纹\\01_牡丹英文标注训练集",
+    "files_copied": 184
+  },
+  {
+    "label": "通用花卉/训练集",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_train",
+    "destination": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\02_训练数据集_去缓存版\\通用花卉\\01_通用花卉训练集",
+    "files_copied": 0
+  }
+]

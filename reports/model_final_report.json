@@ -1,0 +1,46 @@
+{
+  "flower_bird": {
+    "status": "merged",
+    "output": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\01_最终LoRA模型_每类一个\\ICH_flower_bird_final_merged.safetensors",
+    "sources": [
+      {
+        "path": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_bird_outputs\\ICH_flower_bird_pattern_lora-000006.safetensors",
+        "weight": 0.25
+      },
+      {
+        "path": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_bird_outputs_continue\\ICH_flower_bird_pattern_lora_continue.safetensors",
+        "weight": 0.35
+      },
+      {
+        "path": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_bird_outputs_structure_restart\\ICH_flower_bird_structure_restart-000002.safetensors",
+        "weight": 0.4
+      }
+    ],
+    "keys": 792
+  },
+  "lotus": {
+    "status": "merged",
+    "output": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\01_最终LoRA模型_每类一个\\ICH_lotus_final_merged.safetensors",
+    "sources": [
+      {
+        "path": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_lotus_outputs\\ICH_lotus_pattern_lora.safetensors",
+        "weight": 0.65
+      },
+      {
+        "path": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_lotus_outputs_macaron_continue\\ICH_lotus_pattern_lora_macaron_continue.safetensors",
+        "weight": 0.35
+      }
+    ],
+    "keys": 792
+  },
+  "peony": {
+    "status": "copied_single_model",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_peony_outputs\\ICH_peony_pattern_lora.safetensors",
+    "output": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\01_最终LoRA模型_每类一个\\ICH_peony_final.safetensors"
+  },
+  "flower_general": {
+    "status": "copied_single_model",
+    "source": "C:\\Users\\陈\\Desktop\\LoraTraining\\ich_flower_outputs\\ICH_flower_pattern_lora.safetensors",
+    "output": "C:\\Users\\陈\\Desktop\\LoraTraining\\ICHPattern_Competition_Submission_Final\\01_最终LoRA模型_每类一个\\ICH_flower_general_final.safetensors"
+  }
+}

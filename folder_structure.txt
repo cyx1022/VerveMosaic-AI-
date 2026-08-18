@@ -1,0 +1,30 @@
+LoraTraining 文件夹结构总览
+
+1. 顶层目录
+.vscode/                 VS Code 配置
+clip-temp/               CLIP 模型缓存
+kohya-ss/                核心项目目录
+open-clip-temp/          OpenCLIP 模型缓存占位
+outputs/                 最终 LoRA 模型与训练输出
+logs/                    训练日志
+reports/                 数据与模型报告
+README.md                提交说明
+folder_structure.txt     本结构文档
+
+2. kohya-ss/ 核心子目录
+config/                  训练配置与提示词
+data/                    训练数据集（按纹样分类）
+sd-scripts/              Kohya SD 训练脚本库
+sd-scripts-main/         SD 脚本副本
+gui/                     Kohya GUI 应用
+
+3. config/ 训练配置
+*_config.json / *.toml   各纹样训练配置
+sample-prompts_*.txt     训练预览提示词
+test-prompts_*.txt       测试提示词
+
+4. 根目录脚本分类
+train_*.ps1              训练启动
+prepare_*.py             数据准备
+update_*.py              Caption 更新
+start_gui*.ps1/.py       GUI 启动

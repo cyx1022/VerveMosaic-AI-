@@ -1,0 +1,230 @@
+﻿[
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_en",
+        "Images":  92,
+        "Captions":  92
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v2",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_en_v2",
+        "Images":  70,
+        "Captions":  70
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v3_attr",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_attr_v1",
+        "Images":  70,
+        "Captions":  70
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v4_attr_continue",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_attr_v1",
+        "Images":  70,
+        "Captions":  70
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v5_real",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_real_v1",
+        "Images":  80,
+        "Captions":  80
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v6_ich",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_ich_v1",
+        "Images":  72,
+        "Captions":  72
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v7_clear",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_clear_v1",
+        "Images":  12,
+        "Captions":  12
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v8_standard",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_standard_v1",
+        "Images":  57,
+        "Captions":  57
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v9_morph",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_v9_morph",
+        "Images":  44,
+        "Captions":  44
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_v10_simple",
+        "Source":  "C:\\LoraTraining\\ich_peony_train_v10_simple",
+        "Images":  44,
+        "Captions":  44
+    },
+    {
+        "Model":  "peony\\ICH_peony_pattern_lora_baseline_v1",
+        "Source":  "C:\\LoraTraining\\ich_peony_baseline_v1",
+        "Images":  44,
+        "Captions":  44
+    },
+    {
+        "Model":  "peony\\ICH_clean_peony_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\peony",
+        "Images":  57,
+        "Captions":  57
+    },
+    {
+        "Model":  "peony\\ICH_detail_peony_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\peony",
+        "Images":  77,
+        "Captions":  77
+    },
+    {
+        "Model":  "chrysanthemum\\ICH_chrysanthemum_pattern_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_chrysanthemum_train_v1",
+        "Images":  51,
+        "Captions":  51
+    },
+    {
+        "Model":  "chrysanthemum\\ICH_chrysanthemum_pattern_lora_v2",
+        "Source":  "C:\\LoraTraining\\ich_chrysanthemum_train_v2",
+        "Images":  17,
+        "Captions":  17
+    },
+    {
+        "Model":  "chrysanthemum\\ICH_clean_chrysanthemum_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\chrysanthemum",
+        "Images":  75,
+        "Captions":  75
+    },
+    {
+        "Model":  "chrysanthemum\\ICH_detail_chrysanthemum_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\chrysanthemum",
+        "Images":  95,
+        "Captions":  95
+    },
+    {
+        "Model":  "lotus\\ICH_lotus_pattern_lora",
+        "Source":  "C:\\LoraTraining\\ich_lotus_train_en\\10_lotus",
+        "Images":  101,
+        "Captions":  101
+    },
+    {
+        "Model":  "lotus\\ICH_lotus_pattern_lora_v2",
+        "Source":  "C:\\LoraTraining\\ich_lotus_train_en_v2",
+        "Images":  88,
+        "Captions":  88
+    },
+    {
+        "Model":  "lotus\\ICH_lotus_pattern_lora_v3_attr",
+        "Source":  "C:\\LoraTraining\\ich_lotus_train_attr_v1",
+        "Images":  88,
+        "Captions":  88
+    },
+    {
+        "Model":  "lotus\\ICH_lotus_pattern_lora_detail_v1",
+        "Source":  "C:\\LoraTraining\\ich_lotus_train_detail_v1",
+        "Images":  105,
+        "Captions":  105
+    },
+    {
+        "Model":  "lotus\\ICH_lotus_pattern_lora_macaron_continue",
+        "Source":  "C:\\LoraTraining\\ich_lotus_train_en\\12_lotus_macaron_aug",
+        "Images":  69,
+        "Captions":  69
+    },
+    {
+        "Model":  "lotus\\ICH_clean_lotus_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\lotus",
+        "Images":  88,
+        "Captions":  88
+    },
+    {
+        "Model":  "lotus\\ICH_detail_lotus_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\lotus",
+        "Images":  108,
+        "Captions":  108
+    },
+    {
+        "Model":  "flower_bird\\ICH_flower_bird_pattern_lora",
+        "Source":  "C:\\LoraTraining\\ich_flower_bird_train_en",
+        "Images":  114,
+        "Captions":  114
+    },
+    {
+        "Model":  "flower_bird\\ICH_flower_bird_pattern_lora_v2",
+        "Source":  "C:\\LoraTraining\\ich_flower_bird_train_en_v2",
+        "Images":  149,
+        "Captions":  149
+    },
+    {
+        "Model":  "flower_bird\\ICH_flower_bird_structure_restart",
+        "Source":  "C:\\LoraTraining\\ich_flower_bird_train_structure_en",
+        "Images":  35,
+        "Captions":  35
+    },
+    {
+        "Model":  "flower_bird\\ICH_clean_flower_bird_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\flower_bird",
+        "Images":  60,
+        "Captions":  60
+    },
+    {
+        "Model":  "flower_bird\\ICH_detail_flower_bird_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\flower_bird",
+        "Images":  80,
+        "Captions":  80
+    },
+    {
+        "Model":  "plum\\ICH_plum_blossom_pattern_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_plum_train_v1",
+        "Images":  35,
+        "Captions":  35
+    },
+    {
+        "Model":  "plum\\ICH_clean_plum_blossom_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\plum_blossom",
+        "Images":  70,
+        "Captions":  70
+    },
+    {
+        "Model":  "plum\\ICH_detail_plum_blossom_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\plum_blossom",
+        "Images":  90,
+        "Captions":  90
+    },
+    {
+        "Model":  "other\\ICH_clean_other_flower_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\other_flower",
+        "Images":  60,
+        "Captions":  60
+    },
+    {
+        "Model":  "other\\ICH_detail_other_flower_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_clean_train_v1\\other_flower",
+        "Images":  80,
+        "Captions":  80
+    },
+    {
+        "Model":  "flower\\ICH_flower_pattern_lora",
+        "Source":  "C:\\LoraTraining\\ich_flower_train",
+        "Images":  830,
+        "Captions":  831
+    },
+    {
+        "Model":  "angle\\ICH_angle_lotus_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_angle_train_v1\\lotus",
+        "Images":  440,
+        "Captions":  440
+    },
+    {
+        "Model":  "angle\\ICH_angle_peony_lora_v1",
+        "Source":  "C:\\LoraTraining\\ich_angle_train_v1\\peony",
+        "Images":  275,
+        "Captions":  275
+    },
+    {
+        "Model":  "angle\\ICH_angle_peony_lora_v2",
+        "Source":  "C:\\LoraTraining\\ich_angle_train_v2\\peony",
+        "Images":  220,
+        "Captions":  220
+    }
+]

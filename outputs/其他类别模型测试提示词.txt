@@ -1,0 +1,353 @@
+其他类别模型测试提示词
+============================================================
+牡丹固定使用 ICH_peony_pattern_lora_v7_clear。
+推荐初始 LoRA 权重 0.8-1.0；每个模型可以再试 0.6/0.7/1.1/1.2。
+
+负面提示词：
+text, watermark, signature, logo, border, frame, lowres, low quality, worst quality, blurry, jpeg artifacts, deformed, distorted, messy details, ugly, cropped, out of frame, realistic photo, 3d render, anime, cartoon
+
+
+############################################################
+## chrysanthemum
+############################################################
+
+### ICH_chrysanthemum_pattern_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_chrysanthemum_pattern_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_chrysanthemum_pattern_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[embroidered fitted panel]
+<lora:ICH_chrysanthemum_pattern_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[blue-white porcelain medallion]
+<lora:ICH_chrysanthemum_pattern_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+
+### ICH_chrysanthemum_pattern_lora_v2.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_chrysanthemum_pattern_lora_v2:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_chrysanthemum_pattern_lora_v2:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[embroidered fitted panel]
+<lora:ICH_chrysanthemum_pattern_lora_v2:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[blue-white porcelain medallion]
+<lora:ICH_chrysanthemum_pattern_lora_v2:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+
+### ICH_clean_chrysanthemum_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_clean_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_clean_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[embroidered fitted panel]
+<lora:ICH_clean_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[blue-white porcelain medallion]
+<lora:ICH_clean_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+
+### ICH_detail_chrysanthemum_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_detail_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_detail_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[embroidered fitted panel]
+<lora:ICH_detail_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+[blue-white porcelain medallion]
+<lora:ICH_detail_chrysanthemum_lora_v1:0.9>, ichpattern_chrysanthemum, Chinese traditional chrysanthemum pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious chrysanthemum symbolizing longevity
+
+
+############################################################
+## flower_bird
+############################################################
+
+### ICH_clean_flower_bird_lora_v1.safetensors
+[single bird among flowers, clean linework]
+<lora:ICH_clean_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, one clear bird perched among flowers, visible beak, wings and long tail feathers, Chinese folk decorative pattern, clean linework, flat ornamental design, balanced composition
+
+[symmetrical embroidered bird and flower]
+<lora:ICH_clean_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, symmetrical bird and flower ornament, two clear birds, visible beaks, wings, tail feathers, floral scrollwork, embroidery texture, fitted panel motif, shaped to border, bilateral mirror symmetry, traditional Chinese textile pattern
+
+[phoenix and peony porcelain]
+<lora:ICH_clean_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, phoenix and peony motif, bird with spread wings and long tail, traditional Chinese textile pattern, flat pattern design, subtle surface hint, limited color palette, blue and white porcelain
+
+[ink painting bird and branch]
+<lora:ICH_clean_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, bird perched on a flowering branch, visible beak, wings and tail feathers, ink brush painting style, monochrome linework, flat pattern design, clean lines, no texture, asymmetric free composition
+
+
+### ICH_detail_flower_bird_lora_v1.safetensors
+[single bird among flowers, clean linework]
+<lora:ICH_detail_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, one clear bird perched among flowers, visible beak, wings and long tail feathers, Chinese folk decorative pattern, clean linework, flat ornamental design, balanced composition
+
+[symmetrical embroidered bird and flower]
+<lora:ICH_detail_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, symmetrical bird and flower ornament, two clear birds, visible beaks, wings, tail feathers, floral scrollwork, embroidery texture, fitted panel motif, shaped to border, bilateral mirror symmetry, traditional Chinese textile pattern
+
+[phoenix and peony porcelain]
+<lora:ICH_detail_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, phoenix and peony motif, bird with spread wings and long tail, traditional Chinese textile pattern, flat pattern design, subtle surface hint, limited color palette, blue and white porcelain
+
+[ink painting bird and branch]
+<lora:ICH_detail_flower_bird_lora_v1:0.9>, ich_flower_bird_pattern, bird perched on a flowering branch, visible beak, wings and tail feathers, ink brush painting style, monochrome linework, flat pattern design, clean lines, no texture, asymmetric free composition
+
+
+### ICH_flower_bird_final_merged.safetensors
+[single bird among flowers, clean linework]
+<lora:ICH_flower_bird_final_merged:0.9>, ich_flower_bird_pattern, one clear bird perched among flowers, visible beak, wings and long tail feathers, Chinese folk decorative pattern, clean linework, flat ornamental design, balanced composition
+
+[symmetrical embroidered bird and flower]
+<lora:ICH_flower_bird_final_merged:0.9>, ich_flower_bird_pattern, symmetrical bird and flower ornament, two clear birds, visible beaks, wings, tail feathers, floral scrollwork, embroidery texture, fitted panel motif, shaped to border, bilateral mirror symmetry, traditional Chinese textile pattern
+
+[phoenix and peony porcelain]
+<lora:ICH_flower_bird_final_merged:0.9>, ich_flower_bird_pattern, phoenix and peony motif, bird with spread wings and long tail, traditional Chinese textile pattern, flat pattern design, subtle surface hint, limited color palette, blue and white porcelain
+
+[ink painting bird and branch]
+<lora:ICH_flower_bird_final_merged:0.9>, ich_flower_bird_pattern, bird perched on a flowering branch, visible beak, wings and tail feathers, ink brush painting style, monochrome linework, flat pattern design, clean lines, no texture, asymmetric free composition
+
+
+############################################################
+## general
+############################################################
+
+### ICH_flower_general_final.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_flower_general_final:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_flower_general_final:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[embroidered fitted panel]
+<lora:ICH_flower_general_final:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[blue-white porcelain medallion]
+<lora:ICH_flower_general_final:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+
+### ICH_flower_pattern_lora-000003.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_flower_pattern_lora-000003:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_flower_pattern_lora-000003:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[embroidered fitted panel]
+<lora:ICH_flower_pattern_lora-000003:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[blue-white porcelain medallion]
+<lora:ICH_flower_pattern_lora-000003:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+
+### ICH_flower_pattern_lora-000005.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_flower_pattern_lora-000005:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_flower_pattern_lora-000005:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[embroidered fitted panel]
+<lora:ICH_flower_pattern_lora-000005:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[blue-white porcelain medallion]
+<lora:ICH_flower_pattern_lora-000005:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+
+### ICH_flower_pattern_lora.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_flower_pattern_lora:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_flower_pattern_lora:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[embroidered fitted panel]
+<lora:ICH_flower_pattern_lora:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[blue-white porcelain medallion]
+<lora:ICH_flower_pattern_lora:0.9>, ich_flower_pattern, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+
+############################################################
+## lotus
+############################################################
+
+### ICH_clean_lotus_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_clean_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_clean_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_clean_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_clean_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+### ICH_detail_lotus_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_detail_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_detail_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_detail_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_detail_lotus_lora_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+### ICH_lotus_final_merged.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_lotus_final_merged:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_lotus_final_merged:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_lotus_final_merged:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_lotus_final_merged:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+### ICH_lotus_pattern_lora.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_lotus_pattern_lora:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_lotus_pattern_lora:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_lotus_pattern_lora:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_lotus_pattern_lora:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+### ICH_lotus_pattern_lora_detail_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_lotus_pattern_lora_detail_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_lotus_pattern_lora_detail_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_lotus_pattern_lora_detail_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_lotus_pattern_lora_detail_v1:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+### ICH_lotus_pattern_lora_v2.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_lotus_pattern_lora_v2:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_lotus_pattern_lora_v2:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_lotus_pattern_lora_v2:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_lotus_pattern_lora_v2:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+### ICH_lotus_pattern_lora_v3_attr.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_lotus_pattern_lora_v3_attr:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_lotus_pattern_lora_v3_attr:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[embroidered fitted panel]
+<lora:ICH_lotus_pattern_lora_v3_attr:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+[blue-white porcelain medallion]
+<lora:ICH_lotus_pattern_lora_v3_attr:0.9>, ichpattern_lotus, Chinese traditional lotus pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious lotus symbolizing purity
+
+
+############################################################
+## other_flower
+############################################################
+
+### ICH_clean_other_flower_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_clean_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_clean_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[embroidered fitted panel]
+<lora:ICH_clean_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[blue-white porcelain medallion]
+<lora:ICH_clean_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+
+### ICH_detail_other_flower_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_detail_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_detail_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[embroidered fitted panel]
+<lora:ICH_detail_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+[blue-white porcelain medallion]
+<lora:ICH_detail_other_flower_lora_v1:0.9>, ichpattern_other_flower, Chinese traditional floral pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious floral decoration
+
+
+############################################################
+## plum
+############################################################
+
+### ICH_clean_plum_blossom_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_clean_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_clean_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[embroidered fitted panel]
+<lora:ICH_clean_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[blue-white porcelain medallion]
+<lora:ICH_clean_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+
+### ICH_detail_plum_blossom_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_detail_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_detail_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[embroidered fitted panel]
+<lora:ICH_detail_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[blue-white porcelain medallion]
+<lora:ICH_detail_plum_blossom_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+
+### ICH_plum_blossom_pattern_lora_v1.safetensors
+[flat single medallion, bright clear colors]
+<lora:ICH_plum_blossom_pattern_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, clean lines, no texture, medium detail, balanced density, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[dense seamless repeat, rich multicolor]
+<lora:ICH_plum_blossom_pattern_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, seamless repeat, tileable continuous pattern, radial rotational symmetry, classic authentic traditional form, clearly recognizable, rich multicolor palette, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[embroidered fitted panel]
+<lora:ICH_plum_blossom_pattern_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, embroidery texture, medium detail, balanced density, fitted panel motif, shaped to border, bilateral mirror symmetry, classic authentic traditional form, clearly recognizable, bright clear colors, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience
+
+[blue-white porcelain medallion]
+<lora:ICH_plum_blossom_pattern_lora_v1:0.9>, ichpattern_plum_blossom, Chinese traditional plum blossom pattern, decorative motif, flat pattern design, subtle surface hint, dense elaborate full pattern, intricate detail, single motif, centered medallion, radial rotational symmetry, classic authentic traditional form, clearly recognizable, limited color palette, monochrome indigo, complete unbroken motif, traditional ICH style, auspicious plum blossom symbolizing resilience

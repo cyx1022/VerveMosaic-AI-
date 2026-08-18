@@ -1,0 +1,5 @@
+ich_lotus_pattern, ich_flower_pattern, lotus flower motif, layered lotus petals, traditional Chinese decorative pattern, flat ornamental design --w 512 --h 512 --d 1234 --l 7.5 --s 28
+ich_lotus_pattern, ich_flower_pattern, blue and white lotus motif, lotus and leaves, porcelain ceramic pattern, cobalt floral ornament --w 512 --h 512 --d 2234 --l 7.5 --s 28
+ich_lotus_pattern, ich_flower_pattern, embroidered lotus motif, lotus and fish motif, traditional textile pattern, silk embroidery --w 512 --h 512 --d 3234 --l 7.5 --s 28
+ich_lotus_pattern, ich_flower_pattern, lotus flower line art, ink brush lotus, monochrome traditional pattern --w 512 --h 512 --d 4234 --l 7.5 --s 28
+ich_lotus_pattern, ich_flower_pattern, lotus medallion pattern, traditional Chinese ornamental design, floral border --w 512 --h 512 --d 5234 --l 7.5 --s 28
